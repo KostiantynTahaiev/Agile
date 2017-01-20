@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            int fdsjbfjdsbfkbdsjbf;
+            int fdsjbfjdsbfkbdsjbf = 0;
         }
     }
 }
